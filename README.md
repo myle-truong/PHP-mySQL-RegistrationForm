@@ -1,7 +1,7 @@
 # PHP-mySQL
 # RegistrationForm
 
-## Technial
+## Technical
 - PHP
 - connect with server by mySQli
 ## Note
